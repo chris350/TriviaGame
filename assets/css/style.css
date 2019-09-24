@@ -12,6 +12,10 @@ h1 {
     font-family: myFont;
 }
 
+#game {
+    color: white;
+}
+
 @font-face {
     font-family: myFont;
    src: url("../font/sf-alien-encounters/TrueType/SFAlienEncounters.ttf");
@@ -20,13 +24,14 @@ h1 {
 .choice {
     border: 1px solid lightgray;
     padding: 10px;
+    color: black;
     border-radius: 4px;
     cursor: pointer;
     background-color: #ffffff;
 }
 
 .p {
-    color: #ffffff;
+    color: white;
     font-family: myFont;
 }
 

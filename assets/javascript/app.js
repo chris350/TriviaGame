@@ -114,7 +114,7 @@ function loadRemainingQuestion() {
     const remainingQuestion = quizQuestions.length - (currentQuestion + 1)
     const totalQuestion = quizQuestions.length;
 
-    return `Remaining Question: ${remainingQuestion}/${totalQuestion}`;
+    return `<p style="color:white;">Remaining Question: ${remainingQuestion}/${totalQuestion}</p>`;
 }
 
 
