@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/notsromo.jpg");
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: myFont;
+}
+
+@font-face {
+    font-family: myFont;
+   src: url("../font/sf-alien-encounters/TrueType/SFAlienEncounters.ttf");
+}
+
+.choice {
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+
+.p {
+    color: #ffffff;
+    font-family: myFont;
+}
+
+.preload-image {
+    color: #ffffff;
+    font-family: myFont;
+}
