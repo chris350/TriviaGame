@@ -1,8 +1,18 @@
 # TriviaGame
 
-in this game you are challenged with a series of questions to test your knowledge of a movie. <br>
-you have seven qeustions to answer, if answered correctly youll get a pormpt saying that you got it correct. if you were to anwer it wrong 
-youll get a prompt showing that you gat it wrong. <br>
-this is all powered by jquery!!!!!
-<br>
-<a href = "https://chris350.github.io/TriviaGame/">Trivia Game</a>
+## Overview
+This is a homework project for Georgia Tech Full Stack Web Developement Bootcamp.It is a simple multiple choice trivia game created using `HTML`,`CSS` and `jQuery`.Quize is themed as National Geographic quize.  
+
+![game](assests/images/GameImage.PNG)
+
+### Live Demo
+---
+[Play the game](https://pshegde123.github.io/TriviaGame.github.io/)
+
+### Getting Started
+---
+(1) Clone this repository
+
+(2) Change directory to TriviaGame
+
+(3) In your browser open file index.html
