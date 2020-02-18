@@ -3,8 +3,6 @@
 ## Overview
 This is a homework project for Georgia Tech Full Stack Web Developement Bootcamp.It is a simple multiple choice trivia game created using `HTML`,`CSS` and `jQuery`.Quize is themed as National Geographic quize.  
 
-![game](assets/images/Snapshot.png)
-
 ### Live Demo
 ---
 [Play the game](https://chris350.github.io/TriviaGame/.)
