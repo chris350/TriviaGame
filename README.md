@@ -7,7 +7,7 @@ This is a homework project for Georgia Tech Full Stack Web Developement Bootcamp
 
 ### Live Demo
 ---
-[Play the game](https://pshegde123.github.io/TriviaGame.github.io/)
+[Play the game](https://chris350.github.io/TriviaGame/.)
 
 ### Getting Started
 ---
