@@ -24,8 +24,8 @@ const quizQuestions = [
     },
 
     {
-        question:"<p class='p'>what is the nama of the android</p>",
-        choices:["Ash", "Bsihop", "David", "Walter"],
+        question:"<p class='p'>what is the name of the android</p>",
+        choices:["Ash", "Bishop", "David", "Walter"],
         correctAnswer:"Ash"
     },
 
